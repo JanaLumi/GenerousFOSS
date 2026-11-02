@@ -1,4 +1,4 @@
-The core premise here strips away design clutter: space as an active element, progressive disclosure for complexity, and legibility anchored in universal ergonomics rather than aesthetic trends.
+The core premise here is generosity, kindness and resilience in design: space as an active element, progressive disclosure for complexity, and legibility as accessibility.
 
 ### Phase 1: Spatial & Ergonomic Hierarchy
  * Target Sizing (Fitts's Law): Primary interactive elements (buttons, toggles, inputs) must have a minimum touch/click target of 48 \times 48\text{ px} on touch screens and adequate padding on desktop. Bigger is structurally superior to smaller because it reduces cognitive friction and motor-control precision demands.
