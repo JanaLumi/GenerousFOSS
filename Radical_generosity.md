@@ -1,5 +1,5 @@
 AI Collaboration Checklist with Practical Examples
-Built-In Scaffolding & Onboarding
+### Built-In Scaffolding & Onboarding
  * [ ] Enforce persistent progressive discovery
    * How it works: Instead of dumping a user into a full-featured interface on day one or hiding tools behind a 40-page PDF manual, the software presents a simplified, guided mode. Over 30 to 90 days, advanced options surface naturally as core tasks are mastered.
    * Example: In an ERP inventory module, a new user sees only three primary actions (Receive Goods, Check Stock, Dispatch Order). As they complete orders, secondary fields like Batch Tracking and Customs Codes unlock with contextual visual callouts explaining their function directly on screen.
