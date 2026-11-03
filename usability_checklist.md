@@ -16,7 +16,7 @@ The core premise here is generosity, kindness and resilience in design: space as
 Other aspects to consider:
 
 - accessibility: tab through, text to speech, high contrast for reading, clear indicators for buttons to not confuse with images
-- fault tolerance: catch people when they fail, e.g. undo, working/revision history
+- fault tolerance: catch people when they fail, e.g. undo, working/revision history, recently selected options in dropdown, 
 - colour options
 
 
