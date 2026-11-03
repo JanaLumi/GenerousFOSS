@@ -26,4 +26,12 @@ Workflow Continuity & Koti-tonttu Feedback
  * [ ] Audit for self-documenting interface state
    * How it works: Every field, button, and status indicator clearly describes its function, its input requirements, and what consequence clicking it will have, removing the need for external FAQs or help tickets.
    * Example: A button labeled "Archive Fiscal Year" features sub-text directly beneath it reading: "Calculates final retained earnings, locks 2025 transactions from edits, and generates read-only compliance PDFs for auditing."
-   
+### Mechanics-to-Accessibility Audit
+ * [ ] Eliminate fine-motor dependencies
+   * Replace hover-triggered sub-menus with sticky or contextually surfaced action bars with minimum 44px touch/click targets.
+ * [ ] Enforce non-destructive focus states
+   * Ensure inline guidance and scaffolding keep keyboard/screen reader focus in logical order without modal focus traps.
+ * [ ] Provide dual-channel visual feedback
+   * Ensure every visual cue (status, priority, warning) uses spatial position, text, or shape in addition to color.
+ * [ ] Maintain zoom and reflow stability
+   * Test high-density views (tables, ERP balance sheets) at 200% text zoom to ensure layouts reflow smoothly without horizontal scroll collisions.
